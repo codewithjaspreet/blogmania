@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827495050388",
+    "project_id": "blogapp-61201",
+    "storage_bucket": "blogapp-61201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827495050388:android:ce772cc3f1497ad3f75881",
+        "android_client_info": {
+          "package_name": "com.jaspreetsingh.blogmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827495050388-gfaqtroj31887gjkvoo5fueathq6u091.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDuDYr2YXjeEeyudY6cr3BBOaEta3HOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827495050388-gfaqtroj31887gjkvoo5fueathq6u091.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
